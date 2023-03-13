@@ -1,0 +1,9 @@
+This is a text file.
+I plan to manipulate this file.
+This file will be manipulated through the compile server.
+NOW THESE ARE,
+JUST RANDOM WORDS AND LINES.
+So I can have text to work with.
+and of course so I can manipulate them.
+This is because I am a bit manipulative,
+not really tho...
